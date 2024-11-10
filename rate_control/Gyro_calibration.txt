@@ -1,0 +1,19 @@
+X-axis best calibration values:-
+scale factor = 128.95   and bias =-72.09
+
+
+Y-axis:-
+scale factor = 131.8    and bias = 100.5
+
+
+Z-axis:-
+scale factor = 129.95  and bias = -86.42
+
+
+
+
+NOTE:::::::
+
+the equation to be writen on the arduino:-
+
+Real rate = (measured rate - bias)/scale factor
